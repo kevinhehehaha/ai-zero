@@ -2,7 +2,8 @@
 
 Implementation of an AlphaGo Zero paper in one C++ header file without any dependencies.
 
-To achieve that [include/ai.h](include/ai.h) implements:
+To achieve that [include/ai.h](include/ai.h)
+ implements:
 * Basic multilayer neural networks
 * Multiple input and multiple output layers
 * Convolution layers
